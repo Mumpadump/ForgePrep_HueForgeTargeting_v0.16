@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
